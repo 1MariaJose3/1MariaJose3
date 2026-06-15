@@ -3,15 +3,21 @@
 ### Estudiante de Ingeniería en Gestión y Desarrollo de Software
 
 -🔭 Actualmente estoy trabajando en la creación de un proyecto CRM y en el desarrollo de una aplicación gamificada.
+
 -🌱 Actualmente estoy aprendiendo:
     °Fundamentos de Ciberseguridad
     °Git y GitHub
     °Linux
     °Android Studio
+    
 -👯 Estoy interesada en colaborar en proyectos de ciberseguridad, redes, desarrollo de software y proyectos de código abierto que me permitan seguir aprendiendo y adquiriendo experiencia práctica.
+
 -🤝 Estoy buscando apoyo y orientación en Linux, análisis de redes, Git/GitHub, seguridad informática y buenas prácticas de ciberseguridad.
+
 -💬 Pregúntame sobre fundamentos de ciberseguridad, GitHub, programación, desarrollo de software, redes y mi experiencia en cursos y proyectos tecnológicos.
+
 -📫 Puedes contactarme en: mariajosehg.webdev@outlook.com
+
 -⚡ Dato curioso: Comencé mi camino en la ciberseguridad documentando cada curso, certificación y proyecto en GitHub para construir mi portafolio profesional y registrar mi progreso.
 
 <h3 align="left">Connect with me:</h3>
