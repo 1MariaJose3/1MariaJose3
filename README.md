@@ -1,4 +1,4 @@
-# Hi 👋, I'm María José
+# Hola👋, Soy María José
 
 ### Estudiante de Ingeniería en Gestión y Desarrollo de Software
 
@@ -6,21 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1MariaJose3" alt="1MariaJose3" /></a> </p>
 
-- 🔭 I'm currently working on **la creación de un proyecto CMR y en el desarrollo de una aplicación gamificada**
-
-- 🌱 I'm currently learning **- Fundamentos de Ciberseguridad
-- Git y GitHub
-- Android Studio**
-
-- 👯 I'm looking to collaborate on **proyectos de ciberseguridad, redes y desarrollo de software para seguir aprendiendo y ganar experiencia práctica.**
-
-- 🤝 I'm looking for help with **Linux, análisis de redes, Git/GitHub y buenas prácticas de ciberseguridad.**
-
-- 💬 Ask me about **fundamentos de ciberseguridad, GitHub, programación básica, redes y mi experiencia en cursos tecnológicos.**
-
-- 📫 How to reach me **mariajosehg.webdev@outlook.com**
-
-- ⚡ Fun fact **Comencé mi camino en ciberseguridad documentando cada curso y proyecto en GitHub.**
+-🔭 Actualmente estoy trabajando en la creación de un proyecto CRM y en el desarrollo de una aplicación gamificada.
+-🌱 Actualmente estoy aprendiendo:
+    °Fundamentos de Ciberseguridad
+    °Git y GitHub
+    °Linux
+    °Android Studio
+-👯 Estoy interesada en colaborar en proyectos de ciberseguridad, redes, desarrollo de software y proyectos de código abierto que me permitan seguir aprendiendo y adquiriendo experiencia práctica.
+-🤝 Estoy buscando apoyo y orientación en Linux, análisis de redes, Git/GitHub, seguridad informática y buenas prácticas de ciberseguridad.
+-💬 Pregúntame sobre fundamentos de ciberseguridad, GitHub, programación, desarrollo de software, redes y mi experiencia en cursos y proyectos tecnológicos.
+-📫 Puedes contactarme en: mariajosehg.webdev@outlook.com
+-⚡ Dato curioso: Comencé mi camino en la ciberseguridad documentando cada curso, certificación y proyecto en GitHub para construir mi portafolio profesional y registrar mi progreso.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
