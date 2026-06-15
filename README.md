@@ -2,10 +2,6 @@
 
 ### Estudiante de Ingeniería en Gestión y Desarrollo de Software
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1MariaJose3&label=Profile views&color=0e75b6&style=flat" alt="1MariaJose3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1MariaJose3" alt="1MariaJose3" /></a> </p>
-
 -🔭 Actualmente estoy trabajando en la creación de un proyecto CRM y en el desarrollo de una aplicación gamificada.
 -🌱 Actualmente estoy aprendiendo:
     °Fundamentos de Ciberseguridad
